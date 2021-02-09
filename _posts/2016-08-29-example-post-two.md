@@ -2,9 +2,9 @@
 title: Profitabelsten Grafikkarten Zum Cryptowährungen Minen
 categories:
 - Cryptowährungen
-feature_image: "https://cdn.pixabay.com/photo/2017/10/14/22/20/farm-2852024_1280.jpg"
 feature_text: |
   Profitable Mining Grafikkarten
+feature_image: "https://cdn.pixabay.com/photo/2017/10/14/22/20/farm-2852024_1280.jpg"
 ---
 
 Dioscorides' ambix (described in his De materia medica) is a helmet-shaped lid for gathering condensed mercury. For Athenaeus (~ 225 C.E.) it is a bottle or flask. For later chemists it denotes various parts of crude distillation devices.
