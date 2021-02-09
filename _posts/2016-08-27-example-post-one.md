@@ -1,8 +1,8 @@
 ---
-title: Description of an Alembic
+title: Führerausweis
 categories:
-- General
-feature_image: "https://picsum.photos/2560/600?image=872"
+- Führerausweis
+feature_image: "https://images.unsplash.com/photo-1513350949-6bd4ab6ff7f8?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1489&q=80"
 ---
 
 The complete distilling apparatus consists of three parts: the "cucurbit" (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the "head" or "cap" (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping "tube" (Greek σωλήν), leading to the "receiver" (Arabic ḳābila, Greek ἄγγος or φιάλη) container.
