@@ -1,0 +1,19 @@
+---
+label: Blog
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: excerpt
+  label: excerpt
+- type: textarea
+  name: feature_text
+  label: feature_text
+- type: file
+  name: feature_image
+  label: feature_image
