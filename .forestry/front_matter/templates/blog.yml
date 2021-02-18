@@ -17,3 +17,5 @@ fields:
 - type: file
   name: feature_image
   label: feature_image
+pages:
+- _posts/test-page.md
