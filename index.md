@@ -7,11 +7,10 @@ excerpt: Joel Brendle Blog
 ---
 {% include button.html text="English Version 🇬🇧" link="#" color="#242e2b" %}
 
-Blog von [Joel Brendle](https://joelbrendle.ch).
-
+Blog von [Joel Brendle](https://joelbrendle.ch).  
 Veröffentliche hier über alles mögliche was mich so interessiert. :D
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="PayPal 🤑" link="https://paypal.me/notjoel/" color="#0366d6" %}
 
 ## Features
 
