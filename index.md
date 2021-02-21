@@ -1,5 +1,5 @@
 ---
-title: Joel Brendle Blog
+title: Joel Brendle Blog a
 feature_text: ''
 feature_image: https://raw.githubusercontent.com/joelbrendle/JoelWebsite/master/images/titlepicture.jpg
 excerpt: Joel Brendle Blog test
