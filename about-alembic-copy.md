@@ -1,6 +1,8 @@
 ---
 title: About Alembic-(copy)
-feature_text: ''
+feature_text: |
+  ## Alembic
+  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: https://raw.githubusercontent.com/joelbrendle/JoelWebsite/master/images/titlepicture.jpg
 excerpt: Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects.
   Rather than starting from scratch, this boilerplate is designed to get the ball
