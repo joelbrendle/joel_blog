@@ -2,7 +2,7 @@
 title: Joel Brendle Blog
 feature_text: ''
 feature_image: https://raw.githubusercontent.com/joelbrendle/JoelWebsite/master/images/titlepicture.jpg
-excerpt: Joel Brendle Blog
+excerpt: Joel Brendle Blog test
 
 ---
 Servus. Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
