@@ -10,7 +10,7 @@ Veröffentliche hier über alles mögliche was mich so interessiert. :D
 
 {% include button.html text="English Version 🇬🇧" link="#" color="#242e2b" %} {% include button.html text="PayPal 🤑" link="https://paypal.me/notjoel/" color="#0366d6" %}
 
-{% include button.html text="POSTS" link="blog.joelbrendle.ch/categories" color="yellow" %}
+{% include button.html text="POSTS" link="blog.joelbrendle.ch/categories" color="orange" %}
 
 ## Features
 
