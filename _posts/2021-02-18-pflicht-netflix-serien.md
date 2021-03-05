@@ -19,5 +19,11 @@ Pflicht Serien die jeder mit einem Netflix-zugang gesehen haben MUSS
 * How to Sell Drugs Online (Fast)
 * Queen's Gambit
 * Riverdale
+* Blacklist
+* Snowpiercer
+* Black Mirror
+* Breaking Bad
+* The Flash
+* 
 
 Eine davon noch nicht gesehen? Dann aber schnell, bevor es peinlich wird.
