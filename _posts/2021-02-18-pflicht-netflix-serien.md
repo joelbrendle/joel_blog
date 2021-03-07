@@ -52,4 +52,4 @@ Weitere Serien:
 * Breaking Bad
 * The Flash
 
-Eine davon noch nicht gesehen? Dann aber schnell, bevor es peinlich wird.
+Eine davon noch nicht gesehen? Dann aber schnell, bevor es jemand bemerkt. 😳
