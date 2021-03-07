@@ -12,7 +12,8 @@ Pflicht Serien die jeder mit einem Netflixzugang gesehen haben **MUSS**
 
 &nbsp;
 
-## ![](https://www.clementoni.com/media/prod/nl/39542/stranger-things-1-1000-stukjes-stranger-things_neMWBjN.jpg)Stranger Things
+## ![](https://images-na.ssl-images-amazon.com/images/I/A1uReOAZV8L._SL1500_.jpg)  
+Stranger Things
 
 Nach dem Verschwinden eines Jungen treten in einer Kleinstadt geheime Regierungsexperimente, übernatürliche Kräfte und ein merkwürdiges kleines Mädchen zutage.
 
@@ -20,7 +21,8 @@ Nach dem Verschwinden eines Jungen treten in einer Kleinstadt geheime Regierungs
 
 &nbsp;
 
-## ![](https://www.werstreamt.es/assets/Media/Posters/_resampled/ScaleWidthWyIxMjgwIl0/Haus-des-Geldes.jpg)Haus des Geldes
+## ![](https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYiemb4L0MDD3R7P1tpmOyLeUAS5xafhST9XHAMtJB7qp7A2HGnhOk3IuamkXLmVBMoLhWvcf9oNTbPAy0dju-xLhYwhwsnvitApiulwBevK6gP8gyE9VswpYo7Ezw.jpg)  
+Haus des Geldes
 
 Ein Verbrechergenie manipuliert für seinen Plan die Polizei, wobei sich acht Diebe mit Geiseln in der spanischen Banknotendruckerei einschließen.
 
