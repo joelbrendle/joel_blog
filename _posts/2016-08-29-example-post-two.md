@@ -9,12 +9,32 @@ feature_text: ''
 feature_image: https://cdn.pixabay.com/photo/2017/10/14/22/20/farm-2852024_1280.jpg
 
 ---
-Dioscorides' ambix (described in his De materia medica) is a helmet-shaped lid for gathering condensed mercury. For Athenaeus (~ 225 C.E.) it is a bottle or flask. For later chemists it denotes various parts of crude distillation devices.
+asdf
 
-<!-- more -->
+<table>
 
-Alembic drawings appear in works of Cleopatra the Alchemist, Synesius, and Zosimos of Panopolis. There were alembics with two (dibikos) and three (tribikos) receivers.[4] According to Zosimos of Panopolis, the alembic was invented by Mary the Jewess.[5]
+<tr>
 
-The anbik is described by Ibn al-Awwam in his Kitab al-Filaha (Book of Agriculture), where he explains how rose-water is distilled. Amongst others, it is mentioned in the Mafatih al-Ulum (Key of Sciences) of Khwarizmi and the Kitab al-Asrar (Book of Secrets) of Al-Razi. Some illustrations occur in the Latin translations of works which are attributed to Geber.[2]
+<td>Test</td>
 
-_Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
+<td>Test</td>
+
+</tr>
+
+<tr>
+
+<td>Test</td>
+
+<td>Test</td>
+
+</tr>
+
+</table>
+
+asdf
+
+asdf
+
+a
+
+sd
