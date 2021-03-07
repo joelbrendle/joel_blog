@@ -38,7 +38,7 @@ Jahrzehnte nach dem Turnier, das ihr Leben veränderte, flammt die Rivalität zw
 
 3 Staffeln / 13+
 
-<hr></hr>
+<hr>
 
 Weitere Serien:
 
