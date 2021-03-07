@@ -10,6 +10,10 @@ Veröffentliche hier über alles mögliche was mich so interessiert. :D
 
 {% include button.html text="POSTS" link="categories" color="orange" %}
 
-{% include site.posts %}
+{% for post in site.posts %}
+
+<li><h2><a href="{{ post.url }}">{{ post.title }}</a></h2>{{ post.excerpt }}</li>
+
+{% endfor %}
 
 {% include button.html text="English Version 🇬🇧" link="#" color="#242e2b" %} {% include button.html text="PayPal 🤑" link="https://paypal.me/notjoel/" color="#0366d6" %}
