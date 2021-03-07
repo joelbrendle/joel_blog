@@ -19,10 +19,8 @@ color: white;
 }  
 </style>
 
-## titel | titel
-
-test | test
-
+**titel** | titel  
+test | test  
 contetnt | asdflkja
 
 adf
