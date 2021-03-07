@@ -8,9 +8,9 @@ feature_text: ''
 feature_image: "/uploads/mollie-sivaram-yubcnxaa3h8-unsplash.jpg"
 
 ---
-Pflicht Serien die jeder mit einem Netflix-zugang gesehen haben MUSS
+Pflicht Serien die jeder mit einem Netflixzugang gesehen haben MUSS
 
-![](https://www.werstreamt.es/assets/Media/Posters/_resampled/ScaleWidthWyIxMjgwIl0/Haus-des-Geldes.jpg)Haus des Geldes
+## ![](https://www.werstreamt.es/assets/Media/Posters/_resampled/ScaleWidthWyIxMjgwIl0/Haus-des-Geldes.jpg)Haus des Geldes
 
 * Stranger Things
 * Locke & Key
@@ -25,6 +25,5 @@ Pflicht Serien die jeder mit einem Netflix-zugang gesehen haben MUSS
 * Black Mirror
 * Breaking Bad
 * The Flash
-* 
 
 Eine davon noch nicht gesehen? Dann aber schnell, bevor es peinlich wird.
