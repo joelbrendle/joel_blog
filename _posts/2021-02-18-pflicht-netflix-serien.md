@@ -12,7 +12,9 @@ Pflicht Serien die jeder mit einem Netflixzugang gesehen haben **MUSS**
 
  
 
-## ![](https://images-na.ssl-images-amazon.com/images/I/A1uReOAZV8L._SL1500_.jpg)Stranger Things
+## ![](https://images-na.ssl-images-amazon.com/images/I/A1uReOAZV8L._SL1500_.jpg)
+
+## Stranger Things
 
 Nach dem Verschwinden eines Jungen treten in einer Kleinstadt geheime Regierungsexperimente, übernatürliche Kräfte und ein merkwürdiges kleines Mädchen zutage.
 
@@ -26,8 +28,6 @@ Haus des Geldes
 Ein Verbrechergenie manipuliert für seinen Plan die Polizei, wobei sich acht Diebe mit Geiseln in der spanischen Banknotendruckerei einschließen.
 
 4 Staffeln / 16+
-
- 
 
 ## ![](https://occ-0-114-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABU0N7ngptbwigGTeJpdk5Y8Ci7TWwtSCdm_NxHCQMTl8kzqHCHpC04yH5uV1xRAY76lv3IMTi8AFwfi19-EpwcDH1Dp9KE-cEMWDmMeuB0u96BYR-58uRkeTYx41ww.jpg)Cobra Kay
 
