@@ -16,7 +16,7 @@ Pflicht Serien die jeder mit einem Netflixzugang gesehen haben **MUSS**
 
 Nach dem Verschwinden eines Jungen treten in einer Kleinstadt geheime Regierungsexperimente, übernatürliche Kräfte und ein merkwürdiges kleines Mädchen zutage.
 
-3 Staffeln | 16+
+3 Staffeln / 16+
 
 &nbsp;
 
@@ -24,7 +24,7 @@ Nach dem Verschwinden eines Jungen treten in einer Kleinstadt geheime Regierungs
 
 Ein Verbrechergenie manipuliert für seinen Plan die Polizei, wobei sich acht Diebe mit Geiseln in der spanischen Banknotendruckerei einschließen.
 
-4 Staffeln | 16+
+4 Staffeln / 16+
 
 &nbsp;
 
@@ -33,7 +33,7 @@ Cobra Kay
 
 Jahrzehnte nach dem Turnier, das ihr Leben veränderte, flammt die Rivalität zwischen Johnny und Daniel in dieser Fortsetzung der „Karate Kid“-Filme erneut auf.
 
-3 Staffeln /| 13+
+3 Staffeln / 13+
 
 &nbsp;
 
