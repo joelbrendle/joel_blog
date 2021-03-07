@@ -11,10 +11,12 @@ feature_image: https://cdn.pixabay.com/photo/2017/10/14/22/20/farm-2852024_1280.
 ---
 | Priority apples | Second priority | Third priority |
 
-|-------|--------|---------|
+| ------- | -------- | --------- |
 
 | ambrosia | gala | red delicious |
 
 | pink lady | jazz | macintosh |
 
 | honeycrisp | granny smith | fuji |
+
+lol
