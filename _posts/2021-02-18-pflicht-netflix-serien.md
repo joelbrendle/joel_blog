@@ -18,6 +18,8 @@ Nach dem Verschwinden eines Jungen treten in einer Kleinstadt geheime Regierungs
 
 3 Staffeln / 16+
 
+&nbsp;
+
 ## ![](https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYiemb4L0MDD3R7P1tpmOyLeUAS5xafhST9XHAMtJB7qp7A2HGnhOk3IuamkXLmVBMoLhWvcf9oNTbPAy0dju-xLhYwhwsnvitApiulwBevK6gP8gyE9VswpYo7Ezw.jpg)
 
 ## Haus des Geldes
@@ -26,6 +28,8 @@ Ein Verbrechergenie manipuliert für seinen Plan die Polizei, wobei sich acht Di
 
 4 Staffeln / 16+
 
+&nbsp;
+
 ## ![](https://occ-0-114-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABU0N7ngptbwigGTeJpdk5Y8Ci7TWwtSCdm_NxHCQMTl8kzqHCHpC04yH5uV1xRAY76lv3IMTi8AFwfi19-EpwcDH1Dp9KE-cEMWDmMeuB0u96BYR-58uRkeTYx41ww.jpg)
 
 ## Cobra Kay
@@ -33,6 +37,8 @@ Ein Verbrechergenie manipuliert für seinen Plan die Polizei, wobei sich acht Di
 Jahrzehnte nach dem Turnier, das ihr Leben veränderte, flammt die Rivalität zwischen Johnny und Daniel in dieser Fortsetzung der „Karate Kid“-Filme erneut auf.
 
 3 Staffeln / 13+
+
+<hr></hr>
 
 Weitere Serien:
 
