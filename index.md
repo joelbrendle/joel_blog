@@ -8,7 +8,7 @@ excerpt: Joel Brendle Blog
 Blog von [Joel Brendle](https://joelbrendle.ch).  
 Veröffentliche hier über alles mögliche was mich so interessiert. :D
 
-{% include button.html text="POSTS" link="categories" color="orange" %}
+## Neuste Posts:
 
 {% for post in site.posts %}
 
