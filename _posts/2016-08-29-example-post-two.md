@@ -5,9 +5,7 @@ categories:
 excerpt: 'Profitable Mining Grafikkarten
 
 '
-feature_text: |
-  ## Profitabelsten Grafikkarten Zum Cryptowährungen Minen
-  The modern pot still is a descendant of the alembic, an earlier distillation device
+feature_text: ''
 feature_image: https://cdn.pixabay.com/photo/2017/10/14/22/20/farm-2852024_1280.jpg
 
 ---
