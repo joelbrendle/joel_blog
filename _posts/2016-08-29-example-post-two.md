@@ -11,7 +11,7 @@ feature_image: https://cdn.pixabay.com/photo/2017/10/14/22/20/farm-2852024_1280.
 ---
 <style>td {  
 border: 1px solid black;  
-padding: 5px;  
+padding: 10px;  
 }</style>
 
 test | test  
