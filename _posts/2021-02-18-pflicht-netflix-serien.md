@@ -33,7 +33,7 @@ Cobra Kay
 
 Jahrzehnte nach dem Turnier, das ihr Leben veränderte, flammt die Rivalität zwischen Johnny und Daniel in dieser Fortsetzung der „Karate Kid“-Filme erneut auf.
 
-3 Staffeln | 13+
+3 Staffeln \\| 13+
 
 &nbsp;
 
