@@ -2,8 +2,8 @@
 title: Pflicht Netflix Serien
 categories:
 - Film
-excerpt: ''
-feature_text: Netflix Serien die man gesehen haben muss
+excerpt: Netflix Serien die man gesehen haben muss
+feature_text: ''
 feature_image: "/uploads/glenn-carstens-peters-eoqhsffbhrk-unsplash.jpg"
 
 ---
