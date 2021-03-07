@@ -12,13 +12,11 @@ feature_image: https://cdn.pixabay.com/photo/2017/10/14/22/20/farm-2852024_1280.
 <style>td {  
 border: 1px solid black;  
 padding: 4px 10px 4px 10px;  
-}</style>
-
-test | test  
-test | test
-
-test | test
-
-test | test
+}  
+table h2 {  
+background-color: black;  
+color: white;  
+}  
+</style>
 
 adf
