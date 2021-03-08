@@ -34,6 +34,7 @@ RTX 3090 |
 ## AMD
 
 **Modellname** | **Profit (Monat)** | **Hashrate (MH/s)** | **Kosten (neu)** | **Kosten (gebraucht)** | **Geld zurück (Monate)**  
+Radeon XII |  
 RX 590 8GB |  
 RX 580 8GB | asdflkja  
 RX 570 8GB |
