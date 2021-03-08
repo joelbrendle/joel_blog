@@ -40,4 +40,10 @@ AMD RX 590 8GB |
 AMD RX 580 8GB | asdflkja  
 AMD RX 570 8GB |
 
-adfs
+<br>
+
+Hinweise:
+
+* Währung: Schweizer Franken (CHF)
+* Stromkosten Durchschnitt 20 Rp. kW/h
+* Profit kosten mit nicehash.com/profitability-calculator
