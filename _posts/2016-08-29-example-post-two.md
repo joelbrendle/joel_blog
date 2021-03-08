@@ -19,7 +19,7 @@ color: white;
 }  
 </style>
 
-**titel** | titel  
+**Modell | Profit (Monat)* | Hashrate | Kosten (neu) | Kosten (gebraucht) | Geld zurück (Monate)**  
 test | test  
 contetnt | asdflkja
 
