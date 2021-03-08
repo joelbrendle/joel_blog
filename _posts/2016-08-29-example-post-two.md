@@ -36,9 +36,9 @@ RTX 3090 |
 ## AMD
 
 **Modellname** | **Profit (Monat)** | **Hashrate** | **Kosten (neu)** | **Kosten (gebraucht)** | **Geld zurück (Monate)**  
-AMD RX 590 8GB |  
-AMD RX 580 8GB | asdflkja  
-AMD RX 570 8GB |
+RX 590 8GB |  
+RX 580 8GB | asdflkja  
+RX 570 8GB |
 
 <br>
 
