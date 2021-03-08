@@ -21,8 +21,6 @@ color: white;
 
 Die profitabelsten Grafikkarten (GPUs) 2021.
 
-<br>
-
 ## NVIDIA
 
 **Modellname** | **Profit (Monat)** | **Hashrate (MH/s)** | **Kosten (neu)** | **Kosten (gebraucht)** | **Geld zurück (Monate)**  
