@@ -46,4 +46,4 @@ Hinweise:
 
 * Währung: Schweizer Franken (CHF)
 * Stromkosten Durchschnitt 20 Rp. kW/h
-* Profit kosten mit nicehash.com/profitability-calculator
+* Profit kosten und Hashrate berechnet mit nicehash.com/profitability-calculator
