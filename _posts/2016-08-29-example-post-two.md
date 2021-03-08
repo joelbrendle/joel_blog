@@ -25,9 +25,9 @@ Die profitabelsten Grafikkarten (GPUs) 2021.
 
 **Modellname** | **Profit (Monat)** | **Hashrate (MH/s)** | **Kosten (neu)** | **Kosten (aktuell)** | **Geld zurück (Monate)**  
 RTX 3060 Ti | 157 CHF | 60.5 MH/s | 466 CHF | 850 CHF | 3  
-RTX 3070 |  
-RTX 3080 |  
-RTX 3090 |
+RTX 3070 | 159 CHF  
+RTX 3080 | 253 CHF  
+RTX 3090 | 308 CHF
 
 <br>
 
