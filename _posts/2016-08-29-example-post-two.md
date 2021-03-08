@@ -27,4 +27,4 @@ AMD RX 580 8GB | asdflkja
 AMD RX 570 8GB |  
 NVIDIA RTX 3070 |
 
-adf
+adfs
