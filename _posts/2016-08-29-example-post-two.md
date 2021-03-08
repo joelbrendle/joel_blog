@@ -23,8 +23,8 @@ Die profitabelsten Grafikkarten (GPUs) 2021.
 
 ## NVIDIA
 
-**Modellname** | **Profit (Monat)** | **Hashrate (MH/s)** | **Kosten (neu)** | **Kosten (gebraucht)** | **Geld zurück (Monate)**  
-RTX 3060 Ti | 50 | 410 | 410 | 100 | 4  
+**Modellname** | **Profit (Monat)** | **Hashrate (MH/s)** | **Kosten (neu)** | **Kosten (aktuell)** | **Geld zurück (Monate)**  
+RTX 3060 Ti | 157 CHF | 60.5 MH/s | 466 CHF | 850 CHF | 3  
 RTX 3070 |  
 RTX 3080 |  
 RTX 3090 |
@@ -36,7 +36,7 @@ RTX 3090 |
 **Modellname** | **Profit (Monat)** | **Hashrate (MH/s)** | **Kosten (neu)** | **Kosten (gebraucht)** | **Geld zurück (Monate)**  
 Radeon XII |  
 RX 590 8GB |  
-RX 580 8GB | asdflkja  
+RX 580 8GB |   
 RX 570 8GB |
 
 <br>
