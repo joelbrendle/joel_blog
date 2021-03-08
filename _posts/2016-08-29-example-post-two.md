@@ -27,7 +27,8 @@ AMD RX 580 8GB | asdflkja
 AMD RX 570 8GB |  
 NVIDIA RTX 3070 |
 
-Content | Style | Result :-------------------------:|:-------------------------: |:-------------------------: !\[eagle\](/assets/img/neural_style/wedge-tailed_eagle.jpg) | !\[scream\]  
+Content | Style | Result :-------------------------:|:-------------------------:   
+|:-------------------------: !\[eagle\](/assets/img/neural_style/wedge-tailed_eagle.jpg) | !\[scream\]  
 (/assets/img/neural_style/vangogh_self.jpg) | !\[Neural style emu\](/assets/img/neural_style/neural_eagle.gif)
 
 adfs
