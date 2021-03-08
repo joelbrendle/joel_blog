@@ -21,11 +21,21 @@ color: white;
 
 Die profitabelsten Grafikkarten (GPUs) 2021.
 
+<br>
+
+## NVIDIA
+
 **Modellname** | **Profit (Monat)** | **Hashrate** | **Kosten (neu)** | **Kosten (gebraucht)** | **Geld zurück (Monate)**  
-NVIDIA RTX 3060 Ti | 50 | 410 | 410 | 100 | 4  
-NVIDIA RTX 3070 |  
-NVIDIA RTX 3080 |  
-NVIDIA RTX 3090 |  
+RTX 3060 Ti | 50 | 410 | 410 | 100 | 4  
+RTX 3070 |  
+RTX 3080 |  
+RTX 3090 |
+
+<br>
+
+## AMD
+
+**Modellname** | **Profit (Monat)** | **Hashrate** | **Kosten (neu)** | **Kosten (gebraucht)** | **Geld zurück (Monate)**  
 AMD RX 590 8GB |  
 AMD RX 580 8GB | asdflkja  
 AMD RX 570 8GB |
