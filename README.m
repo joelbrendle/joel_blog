@@ -1,1 +1,1 @@
-"https://blog.joelbrendle.ch/"
+https://blog.joelbrendle.ch/
