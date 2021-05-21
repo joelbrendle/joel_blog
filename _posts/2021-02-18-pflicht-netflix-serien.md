@@ -32,7 +32,7 @@ Ein Verbrechergenie manipuliert für seinen Plan die Polizei, wobei sich acht Di
 
 ## ![](https://occ-0-114-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABU0N7ngptbwigGTeJpdk5Y8Ci7TWwtSCdm_NxHCQMTl8kzqHCHpC04yH5uV1xRAY76lv3IMTi8AFwfi19-EpwcDH1Dp9KE-cEMWDmMeuB0u96BYR-58uRkeTYx41ww.jpg)
 
-## Cobra Kay
+## Cobra Kai
 
 Jahrzehnte nach dem Turnier, das ihr Leben veränderte, flammt die Rivalität zwischen Johnny und Daniel in dieser Fortsetzung der „Karate Kid“-Filme erneut auf.
 
